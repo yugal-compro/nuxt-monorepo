@@ -9,9 +9,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Dockerfile
-      run:  ./Dockerfile
-
     - name: LogIn
       uses: docker/login-action@v1
       with:

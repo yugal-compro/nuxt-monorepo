@@ -5,9 +5,9 @@
 </template>
 
 <script setup>
-  import s from "supervillains";
-  import g from "good";
-  console.log(s);
-  console.log(g);
+ // import s from "supervillains";
+  // import g from "good";
+  console.log("wienvnwlkvlk ");
+  // .log(g);
 </script>
 
